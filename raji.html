@@ -8,7 +8,7 @@
 		<meta name="og:title" content="Raji Krishna" />
 		<meta name="og:type" content="profile" />
 		<meta name="og:description" content="Mrs. Rajalakshmi Krishna (alias Ms. Raji) has been a Bharatanatyam dance: performing artist/ practitioner, teacher, choreographer and ardent evangelist." />
-		<meta name="og:url" content="http://www.shreebalanrithyalaya.com/raji.html"/>
+		<meta name="og:url" content="https://www.shreebalanrithyalaya.com/raji.html"/>
 		<meta name="og:site_name" content="Shreebala Nrithyalaya" />
 		<meta name="profile:first_name" content="Raji" />
 		<meta name="profile:last_name" content="Krishna" />
@@ -113,21 +113,6 @@
 					<!--/.Content-->
 				</div>
 			</div>
-			<!-- G+ Share Modal -->
-			<div class="modal fade modal-ext" id="gplusShareModal" tabindex="-1" role="dialog" aria-labelledby="myModalLabel" aria-hidden="true">
-				<div class="modal-dialog modal-sm" role="document">
-					<!--Content-->
-					<div class="modal-content">
-						<div class="modal-body flex-center">
-							<div class="g-plus" data-action="share" data-annotation="none" data-height="24"></div>
-						</div>
-						<div class="modal-footer text-xs-center">
-							<button type="button" class="btn btn-warning" data-dismiss="modal">Close</button>
-						</div>
-					</div>
-					<!--/.Content-->
-				</div>
-			</div>
 			<div class="container">
 				<div class="row">
 					<div class="m-x-auto pull-xs-none">
@@ -160,9 +145,8 @@
 									</p>
 								</div>
 								<div class="row">
-									<a href="http://www.shreebalanrithyalaya.com"><img src="images/bare-logo.png"></img></a>
+									<a href="https://www.shreebalanrithyalaya.com"><img src="images/bare-logo.png"></img></a>
 									<a class="pull-right icons-sm email-ic" data-toggle="modal" data-target="#modal-contact"><i class="fa fa-envelope-o"></i></a>
-									<a class="pull-right icons-sm gplus-ic" data-toggle="modal" data-target="#gplusShareModal"><i class="fa fa-google-plus"></i></a>
 									<a class="pull-right icons-sm fb-ic" data-toggle="modal" data-target="#fbShareModal"><i class="fa fa-facebook"></i></a>
 								</div>
 							</div>
@@ -244,7 +228,7 @@
 				
 				$('#modal-contact').find('.modal-title').text('Sending Email...');
 				$.ajax({
-					url: 'http://api.kavericorp.in:8080/v1/submitfeedback',
+					url: 'https://api.shreebalanrithyalaya.com/v1/submitfeedback',
 					type: 'post',
 					data: JSON.stringify({name: name, email: email, subject: subject, message: message, optin: true}),
 					dataType: 'json',
