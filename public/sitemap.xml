@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+        xmlns:image="http://www.google.com/schemas/sitemap-image/1.1"
+        xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+    <url>
+        <loc>https://shreebalanrithyalaya.com/</loc>
+        <image:image>
+            <image:loc>https://shreebalanrithyalaya.com/images/dance1.jpg</image:loc>
+        </image:image>
+        <image:image>
+            <image:loc>https://shreebalanrithyalaya.com/images/dance2.jpg</image:loc>
+        </image:image>
+        <image:image>
+            <image:loc>https://shreebalanrithyalaya.com/images/dance3.jpg</image:loc>
+        </image:image>
+        <image:image>
+            <image:loc>https://shreebalanrithyalaya.com/images/dance4.jpg</image:loc>
+        </image:image>
+        <image:image>
+            <image:loc>https://shreebalanrithyalaya.com/images/dance5.jpg</image:loc>
+        </image:image>
+        <image:image>
+            <image:loc>https://shreebalanrithyalaya.com/images/dance6.jpg</image:loc>
+        </image:image>
+        <image:image>
+            <image:loc>https://shreebalanrithyalaya.com/images/dance7.jpg</image:loc>
+        </image:image>
+        <image:image>
+            <image:loc>https://shreebalanrithyalaya.com/images/dance8.jpg</image:loc>
+        </image:image>
+        <image:image>
+            <image:loc>https://shreebalanrithyalaya.com/images/dance9.jpg</image:loc>
+        </image:image>
+        <image:image>
+            <image:loc>https://shreebalanrithyalaya.com/images/profile2.jpg</image:loc>
+        </image:image>
+        <video:video>
+            <video:thumbnail_loc>https://shreebalanrithyalaya.com/images/profile1.jpg</video:thumbnail_loc>
+            <video:title>Raji Krishna</video:title>
+            <video:description>Founder and Artistic Director - Shreebala Nrithyalaya</video:description>
+            <video:player_loc>
+                https://www.youtube.com/embed/4Ov8y2Atd4c
+            </video:player_loc>
+            <video:duration>131</video:duration>
+            <video:rating>5.0</video:rating>
+            <video:family_friendly>yes</video:family_friendly>
+            <video:uploader
+                    info="https://simplyvijay.com">Vijay Venkatasubramani
+            </video:uploader>
+        </video:video>
+        <video:video>
+            <video:thumbnail_loc>https://i.ytimg.com/vi/Fx06TZrj-a0/maxresdefault.jpg</video:thumbnail_loc>
+            <video:title>Arangetram performance of Chandni</video:title>
+            <video:description>Beautiful Hari Narayana kautuam presented in Chennai RR sabha Arengetram, by my
+                student Chandini Elango
+            </video:description>
+            <video:player_loc>
+                https://www.youtube.com/embed/nkWgFRm-RE0
+            </video:player_loc>
+            <video:duration>94</video:duration>
+            <video:rating>5.0</video:rating>
+            <video:family_friendly>yes</video:family_friendly>
+            <video:uploader
+                    info="https://simplyvijay.com">Vijay Venkatasubramani
+            </video:uploader>
+        </video:video>
+        <video:video>
+            <video:thumbnail_loc>https://i.ytimg.com/vi/VHfbUsQOtTA/hqdefault.jpg</video:thumbnail_loc>
+            <video:title>Performance by Anika Chebrolu</video:title>
+            <video:description>Natanam Adinar - In ragam vasantha / Adi . Gopala Krishna Bharatiyar composition -
+                presented by my student Anika chebrolu.
+            </video:description>
+            <video:player_loc>
+                https://www.youtube.com/embed/VHfbUsQOtTA
+            </video:player_loc>
+            <video:duration>126</video:duration>
+            <video:rating>5.0</video:rating>
+            <video:family_friendly>yes</video:family_friendly>
+            <video:uploader
+                    info="https://simplyvijay.com">Vijay Venkatasubramani
+            </video:uploader>
+        </video:video>
+    </url>
+    <url>
+        <loc>https://shreebalanrithyalaya.com/raji.html</loc>
+        <image:image>
+            <image:loc>https://shreebalanrithyalaya.com/images/profile1.jpg</image:loc>
+        </image:image>
+    </url>
+    <url>
+        <loc>https://simplyvijay.com/</loc>
+        <image:image>
+            <image:loc>https://www.simplyvijay.com/images/VIJAY.JPG</image:loc>
+        </image:image>
+    </url>
+</urlset>
