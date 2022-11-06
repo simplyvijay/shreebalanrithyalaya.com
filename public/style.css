@@ -1,0 +1,123 @@
+.bg-index {
+  /* The image used */
+  background-image: url("images/bg.jpg");
+
+  /* Full height */
+  height: 100%;
+
+  /* Center and scale the image nicely */
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+.view-header {
+  background: url("images/bg.jpg")no-repeat center center;
+  background-size: cover;
+}
+
+.mydefault-color {
+  background-color: #FF8800;
+}
+
+.navbar {
+  background-color: transparent;
+}
+
+.top-nav-collapse {
+  background-color: #FF8800;
+}
+
+@media (max-width: 991px) {
+
+  .navbar-brand {
+    margin: auto auto;
+  }
+
+  .nav {
+    display: none;
+  }
+
+  .md-down-none {
+    display: none;
+  }
+
+  .md-down-padding-top {
+    padding-top: 2rem;;
+  }
+
+  .md-down-margin-top {
+    margin-top: 5rem;;
+  }
+
+  .md-down-padding-bottom {
+    padding-bottom: 2rem;;
+  }
+
+  section {
+    overflow-x: hidden;
+  }
+
+  .btn.w-100 {
+    width: 75%!important;
+  }
+
+  .navbar-logo {
+    font-family: samarkan-n, ui-rounded;
+    font-size: xx-large;
+  }
+
+  .sidenav-logo {
+    font-family: samarkan-n, ui-rounded;
+    color: white;
+  }
+  .intro-text {
+    font-size: large;
+    font-weight: normal;
+  }
+  .intro-btn {
+    padding: 0.5rem 1.6rem;
+    font-size: .64rem;
+  }
+}
+
+@media (min-width: 992px) {
+  .intro-text {
+    font-size: xx-large;
+    font-weight: normal;
+  }
+  .navbar-logo {
+    font-size: xx-large;
+    font-family: samarkan-n, ui-rounded;
+    margin-right: auto;
+  }
+}
+
+
+html,
+body,
+header,
+.view-header {
+  height: 100%;
+}
+
+body {
+  background-color: #ffe0b2;
+}
+
+footer {
+  background-color: #FF8800;
+}
+
+.sidenav-bg-img {
+  background-image: url("images/bg-design-grey.jpg");
+}
+
+@font-face {
+  font-family: samarkan-o;
+  src: url("font/SAMARO__.TTF");
+}
+@font-face {
+  font-family: samarkan-n;
+  src: url("font/SAMARN__.TTF");
+}
