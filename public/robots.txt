@@ -1,3 +1,9 @@
+# General Allow for All Crawlers
 User-agent: *
 Allow: /
+
+# Specific Block for api.shreebalanrithyalaya.com
+User-agent: *
+Disallow: /api.shreebalanrithyalaya.com/
+
 Sitemap: https://shreebalanrithyalaya.com/sitemap.xml
